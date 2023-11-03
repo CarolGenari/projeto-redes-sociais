@@ -1,2 +1,2 @@
 # social-media-project
- Project Social Media with HTML5 and CSS3
+ Project using HTML5 and CSS3
